@@ -7,3 +7,4 @@ mengklasifikasikan gambar dari galeri secara efektif. aplikasi ini dapat mendete
 ![home2](https://github.com/rivanansar/Android-Application---Asclepius-Pendeteksi-Kanker/assets/122036556/4b5c9e8f-83d5-4c60-a2f5-aad6502d23d3)
 ![home3](https://github.com/rivanansar/Android-Application---Asclepius-Pendeteksi-Kanker/assets/122036556/fbe150cd-7a85-4cda-8da0-724d498d83a4)
 
+sertifikat kelulusan Course : https://www.dicoding.com/certificates/N9ZOM77O8PG5
