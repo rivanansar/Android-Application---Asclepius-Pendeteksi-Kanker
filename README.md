@@ -1,6 +1,6 @@
 # Android-Application---Asclepius-Pendeteksi-Kanker
 
-sebuah aplikasi Android yang mengimplementasikan Machine Learning di perangkat (on-device) untuk mengklasifikasikan gambar dari galeri secara efektif. aplikasi ini dapat mendeteksi penyakit kanker melalui gambar dan mengklasifikasikannya menjadi kanker atau bukan kanker<br>
+sebuah aplikasi Android yang mengimplementasikan Machine Learning di perangkat (on-device) untuk mengklasifikasikan gambar dari galeri secara efektif. aplikasi ini dapat mendeteksi penyakit kanker melalui gambar dan mengklasifikasikannya menjadi kanker atau bukan kanker. aplikasi ini memanfaatkan TensorFlow Lite yang digunakan untuk implementasi ML dengan studi kasus berupa Image Classification, Object Detection, dan Prediction.<br>
 splash screen<br>
 <img src="https://github.com/rivanansar/Android-Application---Asclepius-Pendeteksi-Kanker/assets/122036556/da429aca-14c3-4321-90ee-07cbf4b1fd20" alt="splash1" width="200"/>
 
